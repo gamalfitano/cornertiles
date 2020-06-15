@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="OpenGLJava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-opengl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-glfw-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-glfw-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-opengl-natives-macos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-opengl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-glfw-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-glfw.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-opengl-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-glfw-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-opengl-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../Semester5/comgr/OpenGLJava/lwjgl-natives-macos.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
