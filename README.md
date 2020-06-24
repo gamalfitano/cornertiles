@@ -31,3 +31,8 @@ Some example pictures used for the texture synthesis.
 Some example pictures after the texture synthesis.
 
 #### Used Libraries
+
+jgprapht Version 1.4.0
+lwjgl
+
+
